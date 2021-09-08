@@ -8,6 +8,10 @@ html {
       background-image: url("brokegrid.png");
       background-repeat: repeat;
     }
+.myDiv {
+  background-color: yellow;
+  text-align: center;
+}
     body {
       background-image: url("brokegrid.png");
       background-repeat: repeat;
