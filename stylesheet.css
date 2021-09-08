@@ -9,6 +9,7 @@ html {
     }
     body {
       background-image: url("brokengrid.gif");
+          background-repeat: repeat;
       margin: 0 auto;
       max-width: 36em;
       padding-left: 50px;
