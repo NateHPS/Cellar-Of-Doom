@@ -8,6 +8,7 @@ html {
       background-color: #ffffff;
     }
     body {
+      background-image: url("brokengrid.gif");
       margin: 0 auto;
       max-width: 36em;
       padding-left: 50px;
