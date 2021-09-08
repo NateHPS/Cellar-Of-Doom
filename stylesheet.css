@@ -1,8 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&family=Permanent+Marker&display=swap');
 html {
       line-height: 1.5;
-      font-family: 'Libre Baskerville', serif;
+      font-family: 'Patrick Hand', cursive;;
       font-size: 22px;
       color: #1a1a1a;
       background-color: #ffffff;
@@ -57,7 +56,7 @@ html {
     }
     h1, h2, h3, h4, h5, h6 {
       margin-top: 1.4em;
-     font-family: 'Libre Baskerville', serif;
+     font-family: 'Permanent Marker', cursive;
     }
     h5, h6 {
       font-size: 1em;
