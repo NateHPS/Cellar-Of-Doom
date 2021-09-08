@@ -8,8 +8,8 @@ html {
       background-color: #ffffff;
     }
     body {
-      background-image: url("brokegrid.gif");
-          background-repeat: repeat;
+      background-image: url("brokegrid.png");
+      background-repeat: repeat;
       margin: 0 auto;
       max-width: 36em;
       padding-left: 50px;
