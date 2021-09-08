@@ -6,6 +6,8 @@ html {
       font-size: 22px;
       color: #1a1a1a;
       background-color: #ffffff;
+      background-image: url("brokegrid.png");
+      background-repeat: repeat;
     }
     body {
       background-image: url("brokegrid.png");
